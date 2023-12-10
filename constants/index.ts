@@ -1,3 +1,5 @@
+import { link } from "fs";
+
 export const Skill_data = [
     {
       skill_name: "Html 5",
@@ -84,14 +86,17 @@ export const Skill_data = [
     {
       name: "Discord",
       src: "/instagram.svg",
+      link:"https://instagram.com/_omkar._patil?igshid=YTQwZjQ0NmI0OA=="
     },
     {
       name: "Facebook",
       src: "/facebook.svg",
+      link:"https://www.facebook.com/profile.php?id=100012152537560&mibextid=pwzcmfqlRWHhawsM"
     },
     {
       name: "Instagram",
       src: "/discord.svg",
+      link:""
     },
   ];
   
